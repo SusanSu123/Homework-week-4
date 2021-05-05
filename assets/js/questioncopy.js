@@ -175,7 +175,7 @@ function allDone() {
             var newScore = JSON.stringify(allScores);
             localStorage.setItem("allScores", newScore);
 
-            window.location.replace("./highscorescopy.html")
+            window.location.replace("/highscorescopy.html")
         } 
     })
 
