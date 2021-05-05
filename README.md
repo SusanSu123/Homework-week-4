@@ -15,7 +15,7 @@ The purpose of the assignment was using html, javascript and css to create a cod
 
 ## Implementatin Details
 
-1. Two HTML Pages: Index.html, highscores.html
+1. Two HTML Pages: Indexcopy.html, highscorescopy.html
 2. Contains landing page to start timer
 3. Appends two new pages
 4. Highscores * Retreives local data from previous page
