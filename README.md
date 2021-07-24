@@ -6,7 +6,7 @@ The purpose of the assignment was using html, javascript and css to create a cod
 ## How to install
 
 <ul> Clone the repository</ul>
-<ul> Git clone https://github.com/SusanSu123/Homework-week-4.git</ul>
+<ul> Git clone https://github.com/SusanSu123/Web-APIs-Code-Quiz.git</ul>
 <ul> Go to index.html</ul>
 <ul> Open with your favarite browser</ul>
 
