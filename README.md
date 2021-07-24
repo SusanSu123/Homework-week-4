@@ -1,6 +1,4 @@
-# Homework-week-4
-
-## Ovderview
+## Overview
 
 The purpose of the assignment was using html, javascript and css to create a code quiz
 
